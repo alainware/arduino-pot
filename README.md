@@ -9,7 +9,7 @@ A basic project for reading the data from a potentiometer connected to an Arduin
 
 ## Usage
 
-1. Compile upload the code from `arduino/potentiometer_read.ino` to your Arduino UNO board.
+1. Compile and upload the code from `arduino/potentiometer_read.ino` to your Arduino UNO board.
 2. Check the assigned COM port in the Arduino IDE software.
 
     ![Arduino UNO Serial Port](./res/img/check_port.png)
